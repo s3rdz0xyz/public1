@@ -1,0 +1,6 @@
+title: My Website
+
+remote_theme: s3rdz0xyz/publict1
+
+plugins:
+  - jekyll-remote-theme
